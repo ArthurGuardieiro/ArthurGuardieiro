@@ -1,5 +1,5 @@
 ### Hi there 👋
-aaaa
+### Graduando em Sistemas de informação pela universidade federal de Uberlândia
 
 <!--
 **ArthurGuardieiro/ArthurGuardieiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
