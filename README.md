@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Graduando em Sistemas de informação pela universidade federal de Uberlândia
-![iamge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![iamge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/arthur-guardieiro-3813b2215/
 
 <!--
 **ArthurGuardieiro/ArthurGuardieiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
